@@ -25,4 +25,16 @@
     background-image: linear-gradient(#000000, rgb(67, 30, 168));
     color: white;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 200px 0;
+}
+.escola-div-conteudo{
+width: 80%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
 }
